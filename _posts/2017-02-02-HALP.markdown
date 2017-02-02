@@ -1,0 +1,8 @@
+---
+title:"BLACK PANTHER"
+layout: post
+date: 2017-02-02 00:00
+blog: true
+---
+
+NANANANAAN BATMAN!!!!!!
